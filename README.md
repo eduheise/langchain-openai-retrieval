@@ -1,4 +1,4 @@
-# Movie Recommender System
+# LangChain Document Retrieval
 
 This is a simple movie recommender system built using matrix factorization. The system leverages the MovieLens dataset to predict user movie ratings and provides recommendations based on similar movies.
 
