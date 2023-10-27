@@ -23,7 +23,7 @@ This project contains two main components:
 1. Clone the repository:
 
 ```bash
-   git clone https://github.com/eduheise/langchain-openai-retrieval.git
+   git clone https://github.com/heisemind/langchain-openai-retrieval.git
    cd langchain-openai-retrieval
 ```
 
@@ -53,8 +53,6 @@ This project contains two main components:
       'http://127.0.0.1:8000/question?question=What%20is%20ADADRIFT%3F' \
       -H 'accept: application/json'
 ```
-
-   This script demonstrates the process of recommending similar movies for a given list of movie IDs.
 
 **License**
 
