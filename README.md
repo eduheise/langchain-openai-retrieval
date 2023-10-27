@@ -33,8 +33,6 @@ This project contains two main components:
    pip install -r requirements.txt
 ```
 
-3. Download and place the [MovieLens dataset](https://grouplens.org/datasets/movielens/) (`ratings.csv`, `movies.csv`, etc.) in the `data` directory.
-
 **Usage**
 
 1. Add all of the documents that you want in PDF format, with plain text in it.
